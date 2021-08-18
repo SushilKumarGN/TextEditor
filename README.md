@@ -1,3 +1,4 @@
+![Screenshot 2021-08-18 183815](https://user-images.githubusercontent.com/69347089/129903601-dcf9169c-2c3c-4d90-9e20-1331855163e1.png)
 # TextEditor
 
 This helps in creating a simple document with some features like changing (color, fontstyle, fontsize) of text and adding images, bulletins etc.
